@@ -77,9 +77,9 @@
     "ts-jest": "29.1.1",
     "ts-node": "10.9.2",
     "typescript": "5.3.3",
-    "undici": "6.6.2",
+    "undici": "6.27.0",
     "use-debounce": "10.0.0",
-    "vite": "4.5.2",
+    "vite": "6.4.3",
     "vite-plugin-radar": "0.9.3"
   },
   "peerDependencies": {
